@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-#What goes here?
-
-I don't know.
