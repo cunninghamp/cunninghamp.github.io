@@ -27,7 +27,7 @@ url: "https://paulcunningham.dev" # the base hostname & protocol for your site, 
 twitter_username: paulcunningham
 github_username: cunninghamp
 github: [metadata]
-#permalink: /:title:output_ext
+permalink: /:title:output_ext
 
 # Build settings
 theme: jekyll-theme-primer
