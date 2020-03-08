@@ -28,19 +28,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: minima
-remote_theme: thelehhman/plainwhite-jekyll
-theme: plainwhite
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-plainwhite:
-  navigation:
-    - title: Home
-      url: "/"
-    - title: About
-      url: "/about"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
