@@ -1,10 +1,10 @@
 ---
 title:  "Installing Python Modules into the Correct Python Version on a Mac"
 date:   2017-12-01 12:00:00 +1000
-categories: code
-tags: [python, mac, feedparser]
+categories: python
+tags: [mac, feedparser]
 ---
-I'm doing some testing of the Feedparse Python module. The install instructions seem simple enough.
+I'm doing some testing of the Feedparser Python module. The install instructions seem simple enough.
 
 ```terminal
 sudo pip install feedparser
