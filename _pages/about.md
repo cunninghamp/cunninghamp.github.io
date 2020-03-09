@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# About
-
 This is the dev blog of Paul Cunningham.
 
 Paul is an author, entreprenuer, and online trainer living in Brisbane, Australia.
