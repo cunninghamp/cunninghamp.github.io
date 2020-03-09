@@ -24,16 +24,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   Coding and tech blog for Paul Cunningham, author, entreprenuer, and online trainer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://paulcunningham.dev" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: paulcunningham
-github_username: cunninghamp
-github: [metadata]
+#twitter_username: paulcunningham
+#github_username: cunninghamp
+#github: [metadata]
 permalink: /:title:output_ext
 
 # Build settings
-theme: jekyll-theme-primer
+#theme: jekyll-theme-primer
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
