@@ -1,24 +1,18 @@
 ---
-title: "Welcome"
-permalink: "/"
-layout: splash
-
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/home-splash.jpg
-  actions:
-    - label: "Read Posts"
-      url: "/posts/"
-
-excerpt: "I'm not a developer. My work is at the intersection of business management, marketing, and technology. I write code to solve problems and answer questions. What I learn along the way, I'll share here."
+title: Welcome
+layout: custom-home
+permalink: /
 ---
 
-<h2>The latest...</h2>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+</div>
+
+<p>I'm not a developer. My work is at the intersection of business management, marketing, and technology. I write code to solve problems and answer questions. What I learn along the way, I'll share here.</p>
