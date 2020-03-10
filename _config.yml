@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Paul Cunningham"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Author. Entreprenuer. Code tinkerer."
+  bio    : "Code tinkerer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
