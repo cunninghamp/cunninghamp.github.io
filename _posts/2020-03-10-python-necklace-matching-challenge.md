@@ -42,7 +42,7 @@ hisisastringt'
 
 A simple function that compares two inputs and returns the result (match) of True/False.
 
-```
+```python
 def same_necklace(first, second):
     match = first == second
     print(match)
@@ -53,7 +53,7 @@ same_necklace("nicole", "nicole")
 
 But we also need to check if the two inputs are the same characters reordered, per the challenge. A for loop that moves the first character of the string to the end will achieve that.
 
-```
+```python
 def same_necklace(first, second):
     match = first == second
 
@@ -71,7 +71,7 @@ same_necklace("nicole", "icolen")
 
 The above code produces this output:
 
-```
+```python
 Reordered string is: coleni
 Reordered string is: olenic
 Reordered string is: lenico
