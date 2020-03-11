@@ -117,3 +117,13 @@ print(smorse("programmer"))
 print(smorse("bits"))
 print(smorse("three"))
 ```
+
+With the code above I get the expected output for the challenge (with my extra words as well).
+
+```
+The morse code for sos is ...---...
+The morse code for daily is -...-...-..-.--
+The morse code for programmer is .--..-.-----..-..-----..-.
+The morse code for bits is -.....-...
+The morse code for three is -.....-...
+```
