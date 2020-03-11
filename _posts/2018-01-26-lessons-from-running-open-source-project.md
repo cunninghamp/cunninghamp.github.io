@@ -17,7 +17,7 @@ Our project aimed to solve a problem by providing a tool that analyzed Exchange 
 
 Many of my fellow Microsoft MVPs were hearing from customers wanting a BPA for newer versions of Exchange to help keep their deployments healthy and aligned with best practice. After some email discussions, a few of us decided to create one ourselves.
 
-![](/images/open-source-lessons/ex-analyzer.png)
+![](/assets/images/open-source-lessons/ex-analyzer.png)
 
 ## Projects Need Leaders
 
@@ -31,7 +31,7 @@ At first we ran the Exchange Analyzer project with ad-hoc releases. When this be
 
 Having milestones helped to focus our attention rather than just pick tasks at random.
 
-![](/images/open-source-lessons/ex-analyzer-milestones.png)
+![](/assets/images/open-source-lessons/ex-analyzer-milestones.png)
 
 ## Think Big Early
 
@@ -49,7 +49,7 @@ The number one problem we faced with Exchange Analyzer was a shortage of time. W
 
 After a period of heavier work early in 2016, other work commitments came up that took priority. You can see my contributions dropped off late in 2016, and although I was able to spend some reasonably consistent time in 2017, it never returned the level of those early days.
 
-![](/images/open-source-lessons/ex-analyzer-github-contribs.png)
+![](/assets/images/open-source-lessons/ex-analyzer-github-contribs.png)
 
 Other project contributors had similar ebbs and flows. Ultimately I think this project just doesn't align with our professional commitments today the way it did at the beginning. It's hard to keep selflessly working on a community project that isn't returning any real benefit to yourself.
 
@@ -68,7 +68,7 @@ In our project we had people contributing ideas, architectural advice, code, pee
 
 In the past I've often looked at open source projects and thought I had nothing to add unless I could contribute code. But now I see that even the simple act of improving a project's documentation would be a good contribution.In fact, considering how busy everyone is with their day jobs, families, and life in general, any contribution to an open source project should be appreciated. It's opened my eyes to how I can be more involved in others' projects, and how I can welcome more contributions to my own projects in future.
 
-![](/images/open-source-lessons/ex-analyzer-wiki.png)
+![](/assets/images/open-source-lessons/ex-analyzer-wiki.png)
 
 ## Tools Don't Magically Solve Problems
 
