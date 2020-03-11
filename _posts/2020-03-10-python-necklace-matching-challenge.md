@@ -37,7 +37,7 @@ To "slice" the string so that the first character moves to the end:
 ```python
 >>> newstring = string[1:] + string[0]
 >>> print(newstring)
-hisisastringt'
+hisisastringt
 ```
 
 A simple function that compares two inputs and returns the result (match) of True/False.
@@ -71,7 +71,7 @@ same_necklace("nicole", "icolen")
 
 The above code produces this output:
 
-```python
+```
 Reordered string is: coleni
 Reordered string is: olenic
 Reordered string is: lenico
