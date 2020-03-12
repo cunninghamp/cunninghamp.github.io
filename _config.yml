@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Python and Code Tinkering Blog"
-masthead_title: "A Dev Blog"
 subtitle: "by Paul Cunningham"
 title_separator: "|"
 email: paul@paulcunningham.me
