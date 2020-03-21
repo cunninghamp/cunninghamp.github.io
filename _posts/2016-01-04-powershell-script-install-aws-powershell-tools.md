@@ -15,7 +15,7 @@ Amazon Web Services provides a [PowerShell module](https://aws.amazon.com/powers
 
 Example:
 
-```powershell
+```
 PS C:\Scripts> .\Install-AWSPowerShellModule.ps1
 ```
 
