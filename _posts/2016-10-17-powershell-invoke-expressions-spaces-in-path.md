@@ -4,6 +4,7 @@ categories:
   - PowerShell
 tags:
   - Invoke-Expression
+excerpt: "How to solve errors thrown when using PowerShell’s Invoke-Expression cmdlet for a path that contains spaces."
 ---
 
 One of the early bugs found in [Exchange Analyzer](https://exchangeanalyzer.com) was an error being thrown when the final HTML report was displayed. I had been developing the script in a folder path of *X:\Scripts\ExchangeAnalyzer*.  In other words, a path with no spaces. Some of the early users then tried to run the script from a path such as *X:\Scripts\Exchange Analyzer* and reported errors.
