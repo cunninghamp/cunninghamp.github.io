@@ -2,7 +2,7 @@
 title: Welcome
 layout: home
 permalink: /
-#author_profile: "Paul Cunningham"
+author_profile: "Paul Cunningham"
 ---
 <div id="home-intro" style="display: block; margin-bottom: 20px;">
     <!-- <img src="/assets/images/bio-photo.png" style="float: right;" /> -->
