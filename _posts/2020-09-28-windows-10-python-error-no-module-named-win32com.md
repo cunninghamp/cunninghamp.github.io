@@ -18,7 +18,7 @@ The script imports `win32com.client` to run Microsoft Excel and refresh some dat
 import win32com.client
 ```
 
-However it begain throwing an error.
+However it began throwing an error.
 
 ```
 Traceback (most recent call last):
