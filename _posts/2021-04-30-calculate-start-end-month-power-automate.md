@@ -63,7 +63,7 @@ We're in April right now, so the end of the month is 30th April at 23:59:59, or 
 
 There's a few extra steps involved if you are working with timezones. Let's consider a scenario in which a database is storing timestamps in UTC format (which is quite normal), but I'm interested in records that are relevant to times in my local timezone.
 
-For example, I want to know the database records added between `1/4/2021 00:00:00` and `30/4/2021 23:59:59` local time. In UTC time that would actually be `31/3/2021 14:00:00` and `SOMETHINGELSE`.
+For example, I want to know the database records added between `1/4/2021 00:00:00` and `30/4/2021 23:59:59` local time. In UTC time that would actually be `31/3/2021 14:00:00` and `30/4/2021 13:59:59`.
 
 Here's how I can use Power Automate to calculate those UTC times. I start the same as before, by retrieving the current time. Then, I convert that to my local timezone.
 
