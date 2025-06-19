@@ -3,10 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-This is the dev blog of Paul Cunningham.
+Paul is an author, retired IT guy, and entrepreneur living in Brisbane, Australia. This site is the final resting place of a few of Paul's dev blog posts.
 
-Paul is an author, entreprenuer, and online trainer living in Brisbane, Australia.
+You can find him on [LinkedIn](https://www.linkedin.com/in/cunninghamp) but he doesn't visit there often.
 
-You can connect with Paul on [Twitter](https://twitter.com/paulcunningham) and [LinkedIn](https://www.linkedin.com/in/cunninghamp).
-
-For more of Paul's projects, visit [paulcunningham.me](https://paulcunningham.me).
+For more of Paul's active projects, visit [paulcunningham.me](https://paulcunningham.me).
