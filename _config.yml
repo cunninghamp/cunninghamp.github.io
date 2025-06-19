@@ -73,9 +73,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://paulcunningham.dev"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/paulcunningham"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cunninghamp"
@@ -85,9 +82,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/paulcunningham"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cunninghamp"
